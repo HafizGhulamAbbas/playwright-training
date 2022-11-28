@@ -43,3 +43,5 @@ Some of the team members of Playwright were previously working at Google on anot
 - *CONTEXT* is an isolated “incognito-alike” session within a browser instance.
 
 For recording videos, the main difference between the process of taking a screenshot is that we have to use a browser context.
+
+Playwright comes with a registry of devices parameters for selected mobile devices. This can be used to stimulate browser behaviors on mobile devices like Android or iPhone.
