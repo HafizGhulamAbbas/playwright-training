@@ -28,3 +28,11 @@ Some of the team members of Playwright were previously working at Google on anot
 - Install NodeJS: https://nodejs.org/en/
 - VSCode: https://code.visualstudio.com/
 - Install Playwright --> npm init playwright@latest
+
+# Relevant Checks: IsElement
+- Attached?
+- Visible?
+- Stable?
+- Not being obscured by other elements?
+- Enabled?
+- Editable? (Text controls)
