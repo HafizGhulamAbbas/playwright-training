@@ -55,3 +55,6 @@ npm i -D @applitools/eyes-playright or npm i @applitools/eyes-playwright --save-
 
 # Playwright CI
 npx playwright codegen url or npx playwright codegen https://www.saucedemo.com
+
+# Types of balances in our case
+- 'Credit', 'Total', and 'Due Today'
