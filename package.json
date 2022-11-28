@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/HafizGhulamAbbas/playwright-training#readme",
   "devDependencies": {
+    "@applitools/eyes-playwright": "^1.12.7",
     "@playwright/test": "^1.28.1"
   }
 }

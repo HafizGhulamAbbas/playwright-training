@@ -45,3 +45,10 @@ Some of the team members of Playwright were previously working at Google on anot
 For recording videos, the main difference between the process of taking a screenshot is that we have to use a browser context.
 
 Playwright comes with a registry of devices parameters for selected mobile devices. This can be used to stimulate browser behaviors on mobile devices like Android or iPhone.
+
+# Export AppliTools API Key
+export APPLITOOLS_API_KEY=<value>
+
+### Install the Applitools dependency
+npm i -D @applitools/eyes-playright or npm i @applitools/eyes-playwright --save-dev
+- eyes method take parameters: driver, app name, test name, viewport size
