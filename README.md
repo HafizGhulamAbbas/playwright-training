@@ -36,3 +36,10 @@ Some of the team members of Playwright were previously working at Google on anot
 - Not being obscured by other elements?
 - Enabled?
 - Editable? (Text controls)
+
+# Three main core concepts: browser, page, and context
+- *BROWSER* is the first thing we need to run tests. After all, we have to launch a browser. Playwright does this using the object of the browser class, which is nothing but an instance of either Chromium, Firefox, or Webkit.
+- *PAGE* is a new tab or pop-up window within a context. Every action on the test (for example, page.click, page.type, …) is performed on this object.
+- *CONTEXT* is an isolated “incognito-alike” session within a browser instance.
+
+For recording videos, the main difference between the process of taking a screenshot is that we have to use a browser context.
