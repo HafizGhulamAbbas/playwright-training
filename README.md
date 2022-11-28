@@ -51,4 +51,7 @@ export APPLITOOLS_API_KEY=<value>
 
 ### Install the Applitools dependency
 npm i -D @applitools/eyes-playright or npm i @applitools/eyes-playwright --save-dev
-- eyes method take parameters: driver, app name, test name, viewport size
+- eyes method take parameters: driver, app name, test name, viewport 
+
+# Playwright CI
+npx playwright codegen url or npx playwright codegen https://www.saucedemo.com
