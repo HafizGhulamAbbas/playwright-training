@@ -1,0 +1,21 @@
+{
+  "name": "playwright-training",
+  "version": "1.0.0",
+  "description": "# pre-requisites - Introduction to JS - IDE (VSCode) - NodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizGhulamAbbas/playwright-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HafizGhulamAbbas/playwright-training/issues"
+  },
+  "homepage": "https://github.com/HafizGhulamAbbas/playwright-training#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}

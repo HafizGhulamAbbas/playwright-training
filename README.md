@@ -23,3 +23,8 @@ Some of the team members of Playwright were previously working at Google on anot
 # Limitations of Playwright
 - No legacy Microsoft Edge or IE11 support
 - Desktop browsers are used to emulate mobile devices (you are not really using real mobile devices)
+
+# Install Playwright
+- Install NodeJS: https://nodejs.org/en/
+- VSCode: https://code.visualstudio.com/
+- Install Playwright --> npm init playwright@latest
